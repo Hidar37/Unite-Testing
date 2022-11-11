@@ -1,68 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Todolist
+# To Do List Project
 
-## Description
+> This is simple to do list project. Using this project users can create a daily to do list. This project have the functionlity of adding, removing, edtiting and removeing the all completed task from the list.
 
-This is an awesome application that allows users to save/add list of tasks.
+## Built With
 
+- HTML
+- CSS
+- JS
 
-## Build With
+## Live Demo
 
-- Editor : Visual studio code
-
-- Languages
-
-  - [ ] HTML
-  - [ ] CSS
-  - [ ] JavaScript
-
-- Terminologies
-  - [ ] Github
-  - [ ] Webpack
-  - [ ] Linters
-  - [ ] WebHint
-  - [ ] Stylelint
-  - [ ] ESlint
-
-## Live Demo 
-
-[Live Demo Link](https://htetaungkyaw71.github.io/Todolist/) 
-
-<!-- ## Link to Presentation on this Project
-
-[See Presentation]() -->
+> [[Project Live Demo Link](https://hidar37.github.io/To-Do-List/dist/)](🚀🚀🚀🚀🚀)
 
 
-## Getting Started
+## Setup&Install
 
-step 1:
-Clone this repo locally using git in the command line and the following command
+`1- To have a copy of this project running on your local machine, follow these Steps:`
 
-```
-git clone git@github.com:Htetaungkyaw71/Todolist.git
-```
+- Clone this repo to your local machine
+  - `https://github.com/Hidar37/To-Do-List.git`
+  - Open the folder "To-Do-List" and run `npm install` to install all necesary scripts,
+  - Run from your termminal, `npm start` to open the project in your browser.
 
-Alternatively, you can just download the complete zip file and extract the folder in your directory
+### Prerequisites
 
-Step 2:
-Copy All Project files and run using VSCODE. HTML can be viewed in browser.
+- [NodeJS](https://nodejs.org/en/docs/)
 
+> As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.
 
+- [Text Editor(VScode Recommended)](https://code.visualstudio.com/)
 
-## Author 1
+> Visual Studio Code is a free coding editor that helps you start coding quickly. Use it to code in any programming language, without switching editors.
 
-👤 **Htetaungkyaw**
+- [Web Browser(Google Chrome Recommended)](https://www.google.com/chrome/?brand=CHBD&brand=CHBD&gclid=Cj0KCQjwqoibBhDUARIsAH2OpWhDJExSRmbLyWolXNX3OYYy0ykn1Gb7xNytG5wWTWSIOVHgqsHIQtsaAvk7EALw_wcB&gclsrc=aw.ds)
 
-- GitHub: [@githubhandle](https://github.com/Htetaungkyaw71)
-- Twitter: [@twitterhandle](https://twitter.com/htetaun91907337)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/htet-aung-kyaw-9a77271a7/)
+## Author
+
+👤 **Haider Ahmad**
+
+- GitHub: [@Hidar37](https://github.com/Hidar37)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Htetaungkyaw71/Todolist/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -70,8 +54,12 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- ### Original design idea by **Cindy Shin in Behance**, in association with the Creative Commons [license](./CC.md) of the design.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc.
 
 ## 📝 License
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
